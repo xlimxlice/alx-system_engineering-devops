@@ -1,2 +1,4 @@
 #!/bin/bash
 sudo betty hello
+#!/bin/bash
+sudo chownbetty hello
